@@ -1,8 +1,14 @@
 - 👋 Hi, I’m Kamoru Abiodun Fatungase
-- 👀 I’m a Data & Business Intelligent Analyst 
+- 👀 Dynamic Data and BI Analyst with years of experience in data analysis, modelling, cleaning and reporting, data warehousing, business intelligence, and stakeholder management
 - 🌱 I’m currently using this medium to showcase some of the projects have worked on 
 - 💞️ I’m open to work 
-- 📫 Feel free to go through the projects
+
+
+
+
+
+# Professional Summary
+Dynamic Data and BI Analyst with years of experience in data analysis, modelling, cleaning and reporting, data warehousing, business intelligence, and stakeholder management. Proficient in data visualisation and interpretation, adept at transforming raw data into strategic business solutions. Utilise SQL, Python, and BI tools to ensure accurate reporting and predictive analysis, streamlining decision-making processes through comprehensive data modelling and trend analysis. Implement data-driven strategies to optimise operational efficiency and enhance business performance. Strong communicator collaborating cross-functionally to drive data-driven decision-making. Adaptable and detail-oriented, committed to delivering impactful solutions for informed business decisions.
 
 # Empowering My Career with Data Analytics Skills
 
